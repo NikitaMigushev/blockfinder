@@ -1,0 +1,6111 @@
+[ {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -299,
+  "y" : -35,
+  "z" : 1468
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -294,
+  "y" : -35,
+  "z" : 1468
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -273,
+  "y" : -50,
+  "z" : 1496
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -282,
+  "y" : -50,
+  "z" : 1538
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -281,
+  "y" : -50,
+  "z" : 1538
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -279,
+  "y" : -50,
+  "z" : 1686
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -275,
+  "y" : -50,
+  "z" : 1683
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -266,
+  "y" : -40,
+  "z" : 1189
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -267,
+  "y" : -40,
+  "z" : 1192
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -271,
+  "y" : -50,
+  "z" : 1497
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -242,
+  "y" : 10,
+  "z" : 1408
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -255,
+  "y" : 60,
+  "z" : 1459
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -226,
+  "y" : -25,
+  "z" : 1050
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -229,
+  "y" : -40,
+  "z" : 1333
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -236,
+  "y" : 10,
+  "z" : 1411
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -218,
+  "y" : -40,
+  "z" : 1556
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -220,
+  "y" : -40,
+  "z" : 1557
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -202,
+  "y" : -13,
+  "z" : 1110
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -199,
+  "y" : 12,
+  "z" : 1124
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -202,
+  "y" : 12,
+  "z" : 1122
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -189,
+  "y" : -37,
+  "z" : 1651
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -149,
+  "y" : -34,
+  "z" : 1219
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -132,
+  "y" : 33,
+  "z" : 1178
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -114,
+  "y" : -50,
+  "z" : 1375
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -125,
+  "y" : -9,
+  "z" : 1605
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -124,
+  "y" : -9,
+  "z" : 1600
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -112,
+  "y" : -50,
+  "z" : 1379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 2097664640,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : -40,
+  "y" : 59,
+  "z" : -312
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -72,
+  "y" : -50,
+  "z" : 1214
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -72,
+  "y" : -50,
+  "z" : 1218
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -105,
+  "y" : -53,
+  "z" : 2379
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -105,
+  "y" : -53,
+  "z" : 2380
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -57,
+  "y" : -33,
+  "z" : 1871
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -57,
+  "y" : -33,
+  "z" : 1870
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -25,
+  "y" : -20,
+  "z" : 921
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -26,
+  "y" : -20,
+  "z" : 925
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -32,
+  "y" : 25,
+  "z" : 1015
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -29,
+  "y" : 25,
+  "z" : 1018
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -52,
+  "y" : -31,
+  "z" : 2035
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -52,
+  "y" : -31,
+  "z" : 2039
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -23,
+  "y" : -41,
+  "z" : 1126
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -24,
+  "y" : 38,
+  "z" : 1252
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -28,
+  "y" : 38,
+  "z" : 1255
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -50,
+  "y" : -11,
+  "z" : 2306
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -50,
+  "y" : -11,
+  "z" : 2308
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -19,
+  "y" : -16,
+  "z" : 1685
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -45,
+  "y" : -1,
+  "z" : 2221
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -31,
+  "y" : 21,
+  "z" : 1981
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -16,
+  "y" : -16,
+  "z" : 1682
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -4,
+  "y" : 14,
+  "z" : 1829
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : -2,
+  "y" : 14,
+  "z" : 1829
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 41,
+  "y" : -18,
+  "z" : 1103
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 45,
+  "y" : -18,
+  "z" : 1099
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 15,
+  "y" : -41,
+  "z" : 2254
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 21,
+  "y" : 48,
+  "z" : 1862
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 44,
+  "y" : 20,
+  "z" : 2272
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 59,
+  "y" : -23,
+  "z" : 1979
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 58,
+  "y" : -23,
+  "z" : 1985
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 1700524874,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 136,
+  "y" : 46,
+  "z" : -312
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 99,
+  "y" : -54,
+  "z" : 1132
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 99,
+  "y" : -54,
+  "z" : 1126
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 118,
+  "y" : 37,
+  "z" : 1172
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 123,
+  "y" : 37,
+  "z" : 1170
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 101,
+  "y" : -54,
+  "z" : 2268
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 105,
+  "y" : -54,
+  "z" : 2269
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 167,
+  "y" : 9,
+  "z" : 529
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 166,
+  "y" : 9,
+  "z" : 530
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 170,
+  "y" : -27,
+  "z" : 796
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 172,
+  "y" : -27,
+  "z" : 800
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 170,
+  "y" : 31,
+  "z" : 887
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 1359261715,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 200,
+  "y" : 57,
+  "z" : 72
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 1481529114,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 216,
+  "y" : 58,
+  "z" : -296
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 229,
+  "y" : 45,
+  "z" : 25
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 228,
+  "y" : 45,
+  "z" : 29
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 193,
+  "y" : 40,
+  "z" : 2193
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 195,
+  "y" : 40,
+  "z" : 2196
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 246,
+  "y" : -5,
+  "z" : 721
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 248,
+  "y" : -5,
+  "z" : 720
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 200,
+  "y" : -43,
+  "z" : 2363
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 274,
+  "y" : 35,
+  "z" : 419
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 282,
+  "y" : -6,
+  "z" : 648
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 100157355,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 328,
+  "y" : 41,
+  "z" : -376
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 304,
+  "y" : -22,
+  "z" : 285
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 311,
+  "y" : -7,
+  "z" : 338
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 308,
+  "y" : -7,
+  "z" : 339
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 681444623,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 344,
+  "y" : 50,
+  "z" : -440
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 305,
+  "y" : 9,
+  "z" : 831
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 307,
+  "y" : 9,
+  "z" : 837
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 317,
+  "y" : -14,
+  "z" : 883
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 318,
+  "y" : -14,
+  "z" : 883
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 343,
+  "y" : -11,
+  "z" : -75
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 356,
+  "y" : 27,
+  "z" : -254
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 352,
+  "y" : 27,
+  "z" : -256
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 367,
+  "y" : -25,
+  "z" : 105
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 365,
+  "y" : -25,
+  "z" : 103
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 355,
+  "y" : 15,
+  "z" : 255
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 353,
+  "y" : 15,
+  "z" : 253
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 1214401718,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 392,
+  "y" : 59,
+  "z" : -376
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 367,
+  "y" : 28,
+  "z" : 637
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 358,
+  "y" : -40,
+  "z" : 641
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 361,
+  "y" : -40,
+  "z" : 641
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 428,
+  "y" : -44,
+  "z" : -84
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 430,
+  "y" : -44,
+  "z" : -78
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 431,
+  "y" : -32,
+  "z" : 94
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 421,
+  "y" : -7,
+  "z" : 402
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 437,
+  "y" : -32,
+  "z" : 95
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 429,
+  "y" : -23,
+  "z" : 613
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 430,
+  "y" : -23,
+  "z" : 616
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 424,
+  "y" : -27,
+  "z" : 769
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 434,
+  "y" : -9,
+  "z" : 495
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 438,
+  "y" : -9,
+  "z" : 491
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 440,
+  "y" : -5,
+  "z" : 521
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 458,
+  "y" : 76,
+  "z" : 505
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 461,
+  "y" : 72,
+  "z" : 509
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 459,
+  "y" : 72,
+  "z" : 509
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 459,
+  "y" : 68,
+  "z" : 505
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 461,
+  "y" : 72,
+  "z" : 505
+}, {
+  "id" : "Chest",
+  "pairlead" : 1,
+  "pairx" : 461,
+  "pairz" : 505,
+  "Items" : [ ],
+  "x" : 460,
+  "y" : 72,
+  "z" : 505
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 458,
+  "y" : 72,
+  "z" : 505
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 455,
+  "y" : 72,
+  "z" : 507
+}, {
+  "id" : "Chest",
+  "pairlead" : 1,
+  "pairx" : 458,
+  "pairz" : 505,
+  "Items" : [ ],
+  "x" : 457,
+  "y" : 72,
+  "z" : 505
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 462,
+  "y" : 76,
+  "z" : 516
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 456,
+  "y" : 76,
+  "z" : 518
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 456,
+  "y" : 76,
+  "z" : 516
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 463,
+  "y" : 72,
+  "z" : 521
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 461,
+  "y" : 72,
+  "z" : 523
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 460,
+  "y" : -9,
+  "z" : 522
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 461,
+  "y" : 72,
+  "z" : 519
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 457,
+  "y" : 72,
+  "z" : 523
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 455,
+  "y" : 72,
+  "z" : 521
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 462,
+  "y" : 76,
+  "z" : 518
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 466,
+  "y" : 74,
+  "z" : 111
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 465,
+  "pairz" : 111,
+  "x" : 465,
+  "y" : 68,
+  "z" : 110
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 468,
+  "y" : 74,
+  "z" : 111
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 465,
+  "pairz" : 110,
+  "x" : 465,
+  "y" : 68,
+  "z" : 111
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 466,
+  "y" : 74,
+  "z" : 155
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 468,
+  "y" : 74,
+  "z" : 155
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 465,
+  "pairz" : 156,
+  "x" : 465,
+  "y" : 68,
+  "z" : 155
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 465,
+  "pairz" : 155,
+  "x" : 465,
+  "y" : 68,
+  "z" : 156
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 413,
+  "y" : -5,
+  "z" : 2156
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 412,
+  "y" : -5,
+  "z" : 2156
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 459,
+  "y" : 52,
+  "z" : 731
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 402,
+  "y" : -15,
+  "z" : 2303
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 400,
+  "y" : -15,
+  "z" : 2309
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 487,
+  "y" : -4,
+  "z" : -102
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 486,
+  "y" : -4,
+  "z" : -96
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 494,
+  "y" : -6,
+  "z" : -93
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 465,
+  "y" : 68,
+  "z" : 514
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 483,
+  "y" : -33,
+  "z" : 81
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 465,
+  "y" : 52,
+  "z" : 729
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 496,
+  "y" : -6,
+  "z" : -90
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 504,
+  "pairz" : 125,
+  "x" : 504,
+  "y" : 73,
+  "z" : 124
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 499,
+  "y" : 73,
+  "z" : 122
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 499,
+  "y" : 73,
+  "z" : 125
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 504,
+  "pairz" : 124,
+  "x" : 504,
+  "y" : 74,
+  "z" : 125
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 504,
+  "pairz" : 125,
+  "x" : 504,
+  "y" : 74,
+  "z" : 124
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 504,
+  "pairz" : 124,
+  "x" : 504,
+  "y" : 73,
+  "z" : 125
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 504,
+  "pairz" : 146,
+  "x" : 504,
+  "y" : 73,
+  "z" : 147
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 504,
+  "pairz" : 147,
+  "x" : 504,
+  "y" : 74,
+  "z" : 146
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 504,
+  "pairz" : 146,
+  "x" : 504,
+  "y" : 74,
+  "z" : 147
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 504,
+  "pairz" : 147,
+  "x" : 504,
+  "y" : 73,
+  "z" : 146
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 499,
+  "y" : 73,
+  "z" : 144
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 499,
+  "y" : 73,
+  "z" : 147
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 503,
+  "y" : -10,
+  "z" : 231
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 501,
+  "y" : -11,
+  "z" : 404
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 501,
+  "y" : -11,
+  "z" : 408
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 523,
+  "y" : 74,
+  "z" : 121
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 522,
+  "pairz" : 124,
+  "x" : 523,
+  "y" : 68,
+  "z" : 124
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 523,
+  "y" : 74,
+  "z" : 123
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 523,
+  "pairz" : 124,
+  "x" : 522,
+  "y" : 68,
+  "z" : 124
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 511,
+  "y" : -23,
+  "z" : 756
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 557,
+  "y" : -5,
+  "z" : 44
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 553,
+  "y" : -2,
+  "z" : 119
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 559,
+  "y" : -2,
+  "z" : 119
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 556,
+  "y" : -44,
+  "z" : 409
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 551,
+  "y" : -44,
+  "z" : 413
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 574,
+  "y" : -4,
+  "z" : -53
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 545,
+  "y" : 15,
+  "z" : 822
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 548,
+  "y" : -28,
+  "z" : 823
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 550,
+  "y" : 15,
+  "z" : 826
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 547,
+  "y" : -28,
+  "z" : 820
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 1546649584,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 600,
+  "y" : 59,
+  "z" : -616
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 578,
+  "y" : -4,
+  "z" : -50
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 581,
+  "y" : -54,
+  "z" : 80
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 583,
+  "y" : -17,
+  "z" : 292
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 592,
+  "y" : -16,
+  "z" : -68
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 607,
+  "pairz" : -59,
+  "x" : 606,
+  "y" : 71,
+  "z" : -59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 606,
+  "pairz" : -59,
+  "x" : 607,
+  "y" : 71,
+  "z" : -59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 606,
+  "y" : 77,
+  "z" : -56
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 606,
+  "y" : 77,
+  "z" : -58
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 607,
+  "y" : -47,
+  "z" : 7
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 606,
+  "y" : -47,
+  "z" : 8
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 607,
+  "pairz" : 43,
+  "x" : 606,
+  "y" : 69,
+  "z" : 43
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 606,
+  "pairz" : 43,
+  "x" : 607,
+  "y" : 69,
+  "z" : 43
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 592,
+  "pairz" : 60,
+  "x" : 592,
+  "y" : 72,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 601,
+  "pairz" : 55,
+  "x" : 602,
+  "y" : 70,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 594,
+  "pairz" : 61,
+  "x" : 595,
+  "y" : 72,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 604,
+  "pairz" : 56,
+  "x" : 604,
+  "y" : 69,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 595,
+  "pairz" : 61,
+  "x" : 594,
+  "y" : 72,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 597,
+  "pairz" : 60,
+  "x" : 597,
+  "y" : 72,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 599,
+  "pairz" : 59,
+  "x" : 598,
+  "y" : 68,
+  "z" : 59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 599,
+  "pairz" : 55,
+  "x" : 598,
+  "y" : 70,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ {
+    "Count" : 1,
+    "Damage" : 0,
+    "Name" : "minecraft:flint_and_steel",
+    "Slot" : 0,
+    "WasPickedUp" : 0,
+    "tag" : {
+      "Damage" : 0
+    }
+  }, {
+    "Count" : 1,
+    "Damage" : 0,
+    "Name" : "minecraft:compass",
+    "Slot" : 1,
+    "WasPickedUp" : 0
+  }, {
+    "Count" : 1,
+    "Damage" : 0,
+    "Name" : "minecraft:clock",
+    "Slot" : 2,
+    "WasPickedUp" : 0
+  }, {
+    "Count" : 1,
+    "Damage" : 0,
+    "Name" : "minecraft:fishing_rod",
+    "Slot" : 3,
+    "WasPickedUp" : 0,
+    "tag" : {
+      "Damage" : 0
+    }
+  }, {
+    "Count" : 1,
+    "Damage" : 0,
+    "Name" : "minecraft:shears",
+    "Slot" : 4,
+    "WasPickedUp" : 0,
+    "tag" : {
+      "Damage" : 0
+    }
+  }, {
+    "Count" : 1,
+    "Damage" : 0,
+    "Name" : "minecraft:lead",
+    "Slot" : 5,
+    "WasPickedUp" : 0
+  } ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 598,
+  "pairz" : 59,
+  "x" : 599,
+  "y" : 68,
+  "z" : 59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 604,
+  "pairz" : 55,
+  "x" : 604,
+  "y" : 70,
+  "z" : 56
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 602,
+  "pairz" : 59,
+  "x" : 601,
+  "y" : 68,
+  "z" : 59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 604,
+  "pairz" : 59,
+  "x" : 604,
+  "y" : 69,
+  "z" : 58
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 601,
+  "pairz" : 59,
+  "x" : 602,
+  "y" : 68,
+  "z" : 59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 592,
+  "pairz" : 61,
+  "x" : 592,
+  "y" : 72,
+  "z" : 60
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 598,
+  "pairz" : 55,
+  "x" : 599,
+  "y" : 69,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 599,
+  "pairz" : 55,
+  "x" : 598,
+  "y" : 69,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 604,
+  "pairz" : 56,
+  "x" : 604,
+  "y" : 71,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 602,
+  "pairz" : 55,
+  "x" : 601,
+  "y" : 69,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 601,
+  "pairz" : 55,
+  "x" : 602,
+  "y" : 69,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 604,
+  "pairz" : 55,
+  "x" : 604,
+  "y" : 71,
+  "z" : 56
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 604,
+  "pairz" : 58,
+  "x" : 604,
+  "y" : 69,
+  "z" : 59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 598,
+  "pairz" : 55,
+  "x" : 599,
+  "y" : 70,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 597,
+  "pairz" : 61,
+  "x" : 597,
+  "y" : 72,
+  "z" : 60
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 602,
+  "pairz" : 55,
+  "x" : 601,
+  "y" : 70,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 604,
+  "pairz" : 58,
+  "x" : 604,
+  "y" : 70,
+  "z" : 59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 604,
+  "pairz" : 56,
+  "x" : 604,
+  "y" : 70,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 599,
+  "pairz" : 55,
+  "x" : 598,
+  "y" : 71,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 598,
+  "pairz" : 55,
+  "x" : 599,
+  "y" : 71,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 602,
+  "pairz" : 55,
+  "x" : 601,
+  "y" : 71,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 601,
+  "pairz" : 55,
+  "x" : 602,
+  "y" : 71,
+  "z" : 55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 604,
+  "pairz" : 58,
+  "x" : 604,
+  "y" : 71,
+  "z" : 59
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 605,
+  "y" : 94,
+  "z" : 50
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 592,
+  "pairz" : 60,
+  "x" : 592,
+  "y" : 68,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 595,
+  "pairz" : 61,
+  "x" : 594,
+  "y" : 68,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 594,
+  "pairz" : 61,
+  "x" : 595,
+  "y" : 68,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 597,
+  "pairz" : 60,
+  "x" : 597,
+  "y" : 68,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 604,
+  "pairz" : 59,
+  "x" : 604,
+  "y" : 70,
+  "z" : 58
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 604,
+  "pairz" : 59,
+  "x" : 604,
+  "y" : 71,
+  "z" : 58
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 592,
+  "pairz" : 61,
+  "x" : 592,
+  "y" : 68,
+  "z" : 60
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 597,
+  "pairz" : 61,
+  "x" : 597,
+  "y" : 68,
+  "z" : 60
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 592,
+  "y" : 71,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 594,
+  "y" : 71,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 597,
+  "y" : 71,
+  "z" : 61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 605,
+  "y" : 94,
+  "z" : 48
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 604,
+  "pairz" : 55,
+  "x" : 604,
+  "y" : 69,
+  "z" : 56
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 605,
+  "y" : 94,
+  "z" : 84
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 606,
+  "y" : 69,
+  "z" : 92
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 605,
+  "y" : 94,
+  "z" : 82
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 606,
+  "pairz" : 89,
+  "x" : 607,
+  "y" : 69,
+  "z" : 89
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 607,
+  "pairz" : 89,
+  "x" : 606,
+  "y" : 69,
+  "z" : 89
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 577,
+  "y" : -26,
+  "z" : 717
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 580,
+  "y" : -26,
+  "z" : 721
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 600,
+  "y" : -34,
+  "z" : 290
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 619,
+  "y" : -6,
+  "z" : -55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 615,
+  "y" : -6,
+  "z" : -61
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 621,
+  "y" : -23,
+  "z" : -7
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 622,
+  "y" : 94,
+  "z" : 48
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 622,
+  "y" : 94,
+  "z" : 50
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 622,
+  "y" : 94,
+  "z" : 82
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 622,
+  "y" : 94,
+  "z" : 84
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 608,
+  "y" : 76,
+  "z" : 90
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 608,
+  "y" : -36,
+  "z" : 277
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 616,
+  "y" : 74,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 614,
+  "y" : 84,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 616,
+  "y" : 94,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 616,
+  "y" : 84,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 614,
+  "y" : 89,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 616,
+  "y" : 89,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 616,
+  "y" : 69,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 614,
+  "y" : 69,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 614,
+  "y" : 94,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 614,
+  "y" : 74,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 614,
+  "y" : 79,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 616,
+  "y" : 79,
+  "z" : 374
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 626,
+  "y" : 79,
+  "z" : -70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 628,
+  "y" : 72,
+  "z" : -70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 631,
+  "y" : 72,
+  "z" : -70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 626,
+  "y" : 72,
+  "z" : -70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 633,
+  "pairz" : -55,
+  "x" : 633,
+  "y" : 72,
+  "z" : -54
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 625,
+  "y" : 72,
+  "z" : -54
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 633,
+  "pairz" : -54,
+  "x" : 633,
+  "y" : 72,
+  "z" : -55
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 636,
+  "y" : 72,
+  "z" : -62
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 639,
+  "y" : -22,
+  "z" : -30
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 637,
+  "y" : -22,
+  "z" : -30
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 628,
+  "y" : 69,
+  "z" : 70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 632,
+  "y" : 69,
+  "z" : 70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 630,
+  "y" : 69,
+  "z" : 70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 634,
+  "y" : 69,
+  "z" : 70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 89,
+  "z" : 383
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 79,
+  "z" : 383
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 94,
+  "z" : 383
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 69,
+  "z" : 383
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 84,
+  "z" : 383
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 74,
+  "z" : 383
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 89,
+  "z" : 385
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 74,
+  "z" : 385
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 69,
+  "z" : 385
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 79,
+  "z" : 385
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 94,
+  "z" : 385
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 638,
+  "y" : 84,
+  "z" : 385
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 653,
+  "pairz" : -67,
+  "x" : 653,
+  "y" : 72,
+  "z" : -66
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 653,
+  "pairz" : -66,
+  "x" : 653,
+  "y" : 72,
+  "z" : -67
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 645,
+  "y" : 72,
+  "z" : -54
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 647,
+  "y" : 79,
+  "z" : -54
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 626,
+  "y" : -40,
+  "z" : 590
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 624,
+  "y" : -40,
+  "z" : 587
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 658,
+  "pairz" : -67,
+  "x" : 658,
+  "y" : 72,
+  "z" : -66
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 658,
+  "pairz" : -66,
+  "x" : 658,
+  "y" : 72,
+  "z" : -67
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : -36,
+  "z" : 177
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 684,
+  "y" : 44,
+  "z" : -292
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 678,
+  "y" : 44,
+  "z" : -292
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 641,
+  "y" : -41,
+  "z" : 800
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 670,
+  "pairz" : 332,
+  "x" : 669,
+  "y" : 70,
+  "z" : 332
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 669,
+  "pairz" : 332,
+  "x" : 670,
+  "y" : 70,
+  "z" : 332
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 665,
+  "pairz" : 332,
+  "x" : 664,
+  "y" : 70,
+  "z" : 332
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 664,
+  "pairz" : 332,
+  "x" : 665,
+  "y" : 70,
+  "z" : 332
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 671,
+  "pairz" : 341,
+  "x" : 670,
+  "y" : 66,
+  "z" : 341
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 664,
+  "y" : 66,
+  "z" : 341
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 670,
+  "pairz" : 341,
+  "x" : 671,
+  "y" : 66,
+  "z" : 341
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 88,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 93,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 73,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 83,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 78,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 68,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 93,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 68,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 73,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 78,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 83,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 657,
+  "y" : 88,
+  "z" : 379
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 660,
+  "y" : -33,
+  "z" : 526
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 660,
+  "y" : -33,
+  "z" : 525
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 679,
+  "pairz" : 333,
+  "x" : 678,
+  "y" : 66,
+  "z" : 333
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 678,
+  "pairz" : 333,
+  "x" : 679,
+  "y" : 66,
+  "z" : 333
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 684,
+  "y" : 70,
+  "z" : 333
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 676,
+  "pairz" : 332,
+  "x" : 675,
+  "y" : 70,
+  "z" : 332
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 675,
+  "pairz" : 332,
+  "x" : 676,
+  "y" : 70,
+  "z" : 332
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 673,
+  "y" : 70,
+  "z" : 341
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 673,
+  "pairz" : 339,
+  "x" : 673,
+  "y" : 66,
+  "z" : 340
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 673,
+  "pairz" : 340,
+  "x" : 673,
+  "y" : 66,
+  "z" : 339
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 83,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 88,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 78,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 68,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 73,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 93,
+  "z" : 367
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 88,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 93,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 73,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 83,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 68,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 682,
+  "y" : 78,
+  "z" : 379
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 687,
+  "y" : -32,
+  "z" : 456
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 683,
+  "y" : -32,
+  "z" : 456
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 701,
+  "y" : -11,
+  "z" : -36
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 700,
+  "y" : -11,
+  "z" : -36
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 321575966,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 712,
+  "y" : 53,
+  "z" : -504
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 703,
+  "y" : 73,
+  "z" : 2
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 697,
+  "y" : -34,
+  "z" : 40
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 700,
+  "pairz" : 121,
+  "x" : 699,
+  "y" : 71,
+  "z" : 121
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 699,
+  "pairz" : 121,
+  "x" : 700,
+  "y" : 71,
+  "z" : 121
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 699,
+  "y" : 67,
+  "z" : 130
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 709,
+  "y" : 70,
+  "z" : -26
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 713,
+  "pairz" : 122,
+  "x" : 714,
+  "y" : 67,
+  "z" : 122
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 714,
+  "pairz" : 122,
+  "x" : 713,
+  "y" : 67,
+  "z" : 122
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 711,
+  "pairz" : 121,
+  "x" : 710,
+  "y" : 71,
+  "z" : 121
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 719,
+  "y" : 71,
+  "z" : 122
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 704,
+  "pairz" : 121,
+  "x" : 705,
+  "y" : 71,
+  "z" : 121
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 705,
+  "pairz" : 121,
+  "x" : 704,
+  "y" : 71,
+  "z" : 121
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 710,
+  "pairz" : 121,
+  "x" : 711,
+  "y" : 71,
+  "z" : 121
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 708,
+  "pairz" : 129,
+  "x" : 708,
+  "y" : 67,
+  "z" : 128
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 705,
+  "pairz" : 130,
+  "x" : 706,
+  "y" : 67,
+  "z" : 130
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 708,
+  "pairz" : 128,
+  "x" : 708,
+  "y" : 67,
+  "z" : 129
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 706,
+  "pairz" : 130,
+  "x" : 705,
+  "y" : 67,
+  "z" : 130
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 708,
+  "y" : 71,
+  "z" : 130
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 733,
+  "y" : 47,
+  "z" : -225
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 719,
+  "pairz" : 296,
+  "x" : 718,
+  "y" : 71,
+  "z" : 296
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 714,
+  "pairz" : 296,
+  "x" : 713,
+  "y" : 71,
+  "z" : 296
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 713,
+  "pairz" : 296,
+  "x" : 714,
+  "y" : 71,
+  "z" : 296
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 718,
+  "pairz" : 296,
+  "x" : 719,
+  "y" : 71,
+  "z" : 296
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 720,
+  "pairz" : 305,
+  "x" : 719,
+  "y" : 67,
+  "z" : 305
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 713,
+  "y" : 67,
+  "z" : 305
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 732,
+  "y" : 71,
+  "z" : -22
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 732,
+  "y" : 72,
+  "z" : -22
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 734,
+  "y" : 71,
+  "z" : -25
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 734,
+  "pairz" : -27,
+  "x" : 734,
+  "y" : 73,
+  "z" : -26
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 734,
+  "y" : 72,
+  "z" : -25
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 734,
+  "y" : 73,
+  "z" : -25
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 734,
+  "pairz" : -26,
+  "x" : 734,
+  "y" : 73,
+  "z" : -27
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 734,
+  "pairz" : -29,
+  "x" : 734,
+  "y" : 73,
+  "z" : -28
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 734,
+  "pairz" : -28,
+  "x" : 734,
+  "y" : 73,
+  "z" : -29
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 730,
+  "pairz" : -9,
+  "x" : 731,
+  "y" : 84,
+  "z" : -9
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 730,
+  "pairz" : -9,
+  "x" : 731,
+  "y" : 85,
+  "z" : -9
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 731,
+  "pairz" : -9,
+  "x" : 730,
+  "y" : 85,
+  "z" : -9
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 731,
+  "pairz" : -9,
+  "x" : 730,
+  "y" : 84,
+  "z" : -9
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 736,
+  "y" : 47,
+  "z" : -226
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 724,
+  "pairz" : 296,
+  "x" : 725,
+  "y" : 71,
+  "z" : 296
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 725,
+  "pairz" : 296,
+  "x" : 724,
+  "y" : 71,
+  "z" : 296
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 728,
+  "pairz" : 297,
+  "x" : 727,
+  "y" : 67,
+  "z" : 297
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 722,
+  "pairz" : 304,
+  "x" : 722,
+  "y" : 67,
+  "z" : 303
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 727,
+  "pairz" : 297,
+  "x" : 728,
+  "y" : 67,
+  "z" : 297
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 733,
+  "y" : 71,
+  "z" : 297
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 722,
+  "pairz" : 303,
+  "x" : 722,
+  "y" : 67,
+  "z" : 304
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 722,
+  "y" : 71,
+  "z" : 305
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 719,
+  "pairz" : 305,
+  "x" : 720,
+  "y" : 67,
+  "z" : 305
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 739,
+  "y" : 85,
+  "z" : -19
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 739,
+  "y" : 86,
+  "z" : -19
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 765,
+  "y" : 76,
+  "z" : -69
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 765,
+  "y" : 76,
+  "z" : -72
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 765,
+  "y" : 76,
+  "z" : -50
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 765,
+  "y" : 76,
+  "z" : -47
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 766,
+  "y" : 69,
+  "z" : -30
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 766,
+  "y" : 70,
+  "z" : -30
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 741,
+  "y" : -46,
+  "z" : 545
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 746,
+  "y" : 38,
+  "z" : 782
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 746,
+  "y" : 38,
+  "z" : 781
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 770,
+  "pairz" : -69,
+  "x" : 770,
+  "y" : 77,
+  "z" : -70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 770,
+  "pairz" : -70,
+  "x" : 770,
+  "y" : 76,
+  "z" : -69
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 770,
+  "pairz" : -69,
+  "x" : 770,
+  "y" : 76,
+  "z" : -70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 770,
+  "pairz" : -70,
+  "x" : 770,
+  "y" : 77,
+  "z" : -69
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 765,
+  "y" : -54,
+  "z" : 444
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 767,
+  "y" : -54,
+  "z" : 443
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 770,
+  "pairz" : -48,
+  "x" : 770,
+  "y" : 76,
+  "z" : -47
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 770,
+  "pairz" : -48,
+  "x" : 770,
+  "y" : 77,
+  "z" : -47
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 770,
+  "pairz" : -47,
+  "x" : 770,
+  "y" : 76,
+  "z" : -48
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 770,
+  "pairz" : -47,
+  "x" : 770,
+  "y" : 77,
+  "z" : -48
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 763,
+  "y" : 48,
+  "z" : 573
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 758,
+  "y" : 29,
+  "z" : 652
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 760,
+  "y" : -25,
+  "z" : 686
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 798,
+  "pairz" : -71,
+  "x" : 798,
+  "y" : 76,
+  "z" : -70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 798,
+  "pairz" : -70,
+  "x" : 798,
+  "y" : 77,
+  "z" : -71
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 798,
+  "pairz" : -70,
+  "x" : 798,
+  "y" : 76,
+  "z" : -71
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 798,
+  "pairz" : -71,
+  "x" : 798,
+  "y" : 77,
+  "z" : -70
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 798,
+  "pairz" : -48,
+  "x" : 798,
+  "y" : 76,
+  "z" : -49
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 798,
+  "pairz" : -48,
+  "x" : 798,
+  "y" : 77,
+  "z" : -49
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 798,
+  "pairz" : -49,
+  "x" : 798,
+  "y" : 76,
+  "z" : -48
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 798,
+  "pairz" : -49,
+  "x" : 798,
+  "y" : 77,
+  "z" : -48
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 789,
+  "y" : 71,
+  "z" : 71
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 797,
+  "pairz" : 72,
+  "x" : 798,
+  "y" : 71,
+  "z" : 72
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 794,
+  "pairz" : 71,
+  "x" : 795,
+  "y" : 67,
+  "z" : 71
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 798,
+  "pairz" : 72,
+  "x" : 797,
+  "y" : 71,
+  "z" : 72
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 795,
+  "pairz" : 71,
+  "x" : 794,
+  "y" : 67,
+  "z" : 71
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 99,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 79,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 89,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 74,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 84,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 69,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 94,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 89,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 74,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 99,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 84,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 69,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 94,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 790,
+  "y" : 79,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 803,
+  "y" : 72,
+  "z" : -262
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 803,
+  "y" : 76,
+  "z" : -68
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 803,
+  "y" : 76,
+  "z" : -71
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 803,
+  "y" : 76,
+  "z" : -49
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 803,
+  "y" : 76,
+  "z" : -46
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 803,
+  "y" : 70,
+  "z" : -30
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 800,
+  "y" : 83,
+  "z" : -23
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 800,
+  "y" : 84,
+  "z" : -23
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 803,
+  "y" : 69,
+  "z" : -30
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 801,
+  "y" : 74,
+  "z" : 15
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 803,
+  "y" : 74,
+  "z" : 15
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 800,
+  "pairz" : 15,
+  "x" : 800,
+  "y" : 68,
+  "z" : 14
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 800,
+  "pairz" : 14,
+  "x" : 800,
+  "y" : 68,
+  "z" : 15
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 809,
+  "y" : 67,
+  "z" : 63
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 800,
+  "y" : 71,
+  "z" : 63
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 803,
+  "pairz" : 63,
+  "x" : 802,
+  "y" : 67,
+  "z" : 63
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 802,
+  "pairz" : 63,
+  "x" : 803,
+  "y" : 67,
+  "z" : 63
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 803,
+  "pairz" : 72,
+  "x" : 804,
+  "y" : 71,
+  "z" : 72
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 800,
+  "pairz" : 65,
+  "x" : 800,
+  "y" : 67,
+  "z" : 64
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 804,
+  "pairz" : 72,
+  "x" : 803,
+  "y" : 71,
+  "z" : 72
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 808,
+  "pairz" : 72,
+  "x" : 809,
+  "y" : 71,
+  "z" : 72
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 809,
+  "pairz" : 72,
+  "x" : 808,
+  "y" : 71,
+  "z" : 72
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 800,
+  "pairz" : 64,
+  "x" : 800,
+  "y" : 67,
+  "z" : 65
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 79,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 74,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 99,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 69,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 94,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 89,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 84,
+  "z" : 177
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 74,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 69,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 99,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 94,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 89,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 84,
+  "z" : 202
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 802,
+  "y" : 79,
+  "z" : 202
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 794,
+  "y" : 7,
+  "z" : 787
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 822,
+  "y" : 58,
+  "z" : -198
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 821,
+  "y" : 58,
+  "z" : -192
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 817,
+  "y" : -40,
+  "z" : 27
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 818,
+  "y" : -40,
+  "z" : 31
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 834,
+  "y" : -47,
+  "z" : -50
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 836,
+  "y" : -47,
+  "z" : -50
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 834,
+  "y" : -5,
+  "z" : 252
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 834,
+  "y" : -5,
+  "z" : 258
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 851,
+  "y" : 77,
+  "z" : -89
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 863,
+  "y" : 77,
+  "z" : -67
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 861,
+  "y" : 77,
+  "z" : -67
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 857,
+  "y" : 77,
+  "z" : -67
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 855,
+  "y" : 77,
+  "z" : -67
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 860,
+  "y" : 72,
+  "z" : -65
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 860,
+  "y" : 72,
+  "z" : -68
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 858,
+  "y" : 77,
+  "z" : 35
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 860,
+  "y" : 77,
+  "z" : 35
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 861,
+  "pairz" : 35,
+  "x" : 861,
+  "y" : 71,
+  "z" : 36
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 861,
+  "pairz" : 36,
+  "x" : 861,
+  "y" : 71,
+  "z" : 35
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 878,
+  "y" : 65,
+  "z" : 143
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 877,
+  "pairz" : 139,
+  "x" : 877,
+  "y" : 72,
+  "z" : 138
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 877,
+  "pairz" : 138,
+  "x" : 877,
+  "y" : 72,
+  "z" : 139
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 865,
+  "y" : 65,
+  "z" : 196
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 877,
+  "pairz" : 252,
+  "x" : 877,
+  "y" : 73,
+  "z" : 253
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 877,
+  "pairz" : 253,
+  "x" : 877,
+  "y" : 73,
+  "z" : 252
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 877,
+  "y" : 75,
+  "z" : 271
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 885,
+  "y" : -41,
+  "z" : 52
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 882,
+  "pairz" : 82,
+  "x" : 883,
+  "y" : 76,
+  "z" : 82
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 883,
+  "pairz" : 82,
+  "x" : 882,
+  "y" : 77,
+  "z" : 82
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 883,
+  "pairz" : 82,
+  "x" : 882,
+  "y" : 76,
+  "z" : 82
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 882,
+  "pairz" : 82,
+  "x" : 883,
+  "y" : 77,
+  "z" : 82
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 888,
+  "y" : 66,
+  "z" : 133
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 883,
+  "y" : 67,
+  "z" : 143
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 887,
+  "y" : 73,
+  "z" : 237
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 888,
+  "y" : 75,
+  "z" : 244
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 896,
+  "pairz" : 264,
+  "x" : 895,
+  "y" : 73,
+  "z" : 264
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 881,
+  "pairz" : 256,
+  "x" : 880,
+  "y" : 73,
+  "z" : 256
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 880,
+  "pairz" : 256,
+  "x" : 881,
+  "y" : 73,
+  "z" : 256
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 883,
+  "pairz" : 271,
+  "x" : 882,
+  "y" : 73,
+  "z" : 271
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 882,
+  "pairz" : 271,
+  "x" : 883,
+  "y" : 73,
+  "z" : 271
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 889,
+  "y" : 64,
+  "z" : 455
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 899,
+  "y" : 72,
+  "z" : 123
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 898,
+  "y" : 74,
+  "z" : 133
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 899,
+  "y" : 72,
+  "z" : 131
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 907,
+  "y" : 74,
+  "z" : 200
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 907,
+  "y" : 73,
+  "z" : 200
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 898,
+  "y" : 73,
+  "z" : 250
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 901,
+  "pairz" : 268,
+  "x" : 901,
+  "y" : 73,
+  "z" : 267
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 895,
+  "pairz" : 264,
+  "x" : 896,
+  "y" : 73,
+  "z" : 264
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 901,
+  "pairz" : 267,
+  "x" : 901,
+  "y" : 73,
+  "z" : 268
+}, {
+  "id" : "Chest",
+  "pairlead" : 1,
+  "pairx" : 900,
+  "pairz" : 454,
+  "Items" : [ ],
+  "x" : 900,
+  "y" : 67,
+  "z" : 453
+}, {
+  "id" : "Chest",
+  "Items" : [ {
+    "Count" : 1,
+    "tag" : {
+      "Damage" : 0
+    },
+    "Name" : "minecraft:iron_axe",
+    "version" : 18024960,
+    "Damage" : 0,
+    "Slot" : 0
+  } ],
+  "x" : 900,
+  "y" : 67,
+  "z" : 454
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 917,
+  "y" : -7,
+  "z" : 37
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 915,
+  "y" : -7,
+  "z" : 34
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 916,
+  "pairz" : 189,
+  "x" : 917,
+  "y" : 66,
+  "z" : 189
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 917,
+  "pairz" : 189,
+  "x" : 916,
+  "y" : 66,
+  "z" : 189
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 897,
+  "y" : 53,
+  "z" : 688
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 915,
+  "pairz" : 195,
+  "x" : 914,
+  "y" : 64,
+  "z" : 195
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 914,
+  "pairz" : 195,
+  "x" : 915,
+  "y" : 64,
+  "z" : 195
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 914,
+  "pairz" : 198,
+  "x" : 915,
+  "y" : 64,
+  "z" : 198
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 915,
+  "pairz" : 198,
+  "x" : 914,
+  "y" : 64,
+  "z" : 198
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 913,
+  "pairz" : 196,
+  "x" : 913,
+  "y" : 64,
+  "z" : 197
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 913,
+  "pairz" : 197,
+  "x" : 913,
+  "y" : 64,
+  "z" : 196
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 916,
+  "y" : 66,
+  "z" : 291
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 916,
+  "pairz" : 300,
+  "x" : 916,
+  "y" : 72,
+  "z" : 299
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 916,
+  "pairz" : 299,
+  "x" : 916,
+  "y" : 72,
+  "z" : 300
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 926,
+  "pairz" : 311,
+  "x" : 926,
+  "y" : 66,
+  "z" : 312
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 926,
+  "pairz" : 312,
+  "x" : 926,
+  "y" : 66,
+  "z" : 311
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 935,
+  "y" : 73,
+  "z" : 132
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 931,
+  "y" : 78,
+  "z" : 306
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 936,
+  "y" : 66,
+  "z" : 304
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 933,
+  "y" : 78,
+  "z" : 312
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 931,
+  "y" : 78,
+  "z" : 309
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 933,
+  "y" : 78,
+  "z" : 306
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 926,
+  "y" : 63,
+  "z" : 889
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 946,
+  "pairz" : 295,
+  "x" : 947,
+  "y" : 65,
+  "z" : 295
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 949,
+  "pairz" : 288,
+  "x" : 948,
+  "y" : 72,
+  "z" : 288
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 947,
+  "pairz" : 295,
+  "x" : 946,
+  "y" : 65,
+  "z" : 295
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 948,
+  "pairz" : 288,
+  "x" : 949,
+  "y" : 72,
+  "z" : 288
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 956,
+  "y" : 66,
+  "z" : 330
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 956,
+  "pairz" : 328,
+  "x" : 956,
+  "y" : 65,
+  "z" : 329
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 956,
+  "y" : 65,
+  "z" : 330
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 953,
+  "pairz" : 324,
+  "x" : 952,
+  "y" : 69,
+  "z" : 324
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 952,
+  "pairz" : 324,
+  "x" : 953,
+  "y" : 69,
+  "z" : 324
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 956,
+  "pairz" : 329,
+  "x" : 956,
+  "y" : 65,
+  "z" : 328
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 958,
+  "y" : 65,
+  "z" : 331
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 953,
+  "y" : 69,
+  "z" : 328
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 952,
+  "y" : 69,
+  "z" : 328
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 956,
+  "y" : 69,
+  "z" : 323
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 950,
+  "y" : 69,
+  "z" : 328
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 952,
+  "y" : 69,
+  "z" : 326
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 953,
+  "y" : 69,
+  "z" : 326
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 950,
+  "y" : 69,
+  "z" : 330
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 966,
+  "y" : 37,
+  "z" : 138
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 975,
+  "y" : -42,
+  "z" : 135
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 973,
+  "y" : 38,
+  "z" : 142
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 973,
+  "y" : -42,
+  "z" : 132
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 969,
+  "y" : 43,
+  "z" : 151
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 1,
+  "pairx" : 970,
+  "pairz" : 199,
+  "x" : 969,
+  "y" : 77,
+  "z" : 199
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 967,
+  "y" : 77,
+  "z" : 201
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "pairlead" : 0,
+  "pairx" : 969,
+  "pairz" : 199,
+  "x" : 970,
+  "y" : 77,
+  "z" : 199
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 967,
+  "y" : 76,
+  "z" : 201
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 964,
+  "y" : 66,
+  "z" : 215
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 966,
+  "y" : 77,
+  "z" : 213
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 966,
+  "y" : 66,
+  "z" : 208
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 966,
+  "y" : 66,
+  "z" : 212
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 966,
+  "y" : 66,
+  "z" : 227
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 971,
+  "y" : 66,
+  "z" : 227
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 974,
+  "y" : 72,
+  "z" : 269
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 977,
+  "y" : 53,
+  "z" : 63
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 975,
+  "y" : -19,
+  "z" : 574
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 980,
+  "y" : 53,
+  "z" : 67
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 972,
+  "y" : -19,
+  "z" : 577
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 984,
+  "y" : 72,
+  "z" : 131
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 987,
+  "y" : 33,
+  "z" : 135
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 984,
+  "y" : 72,
+  "z" : 132
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 984,
+  "y" : 72,
+  "z" : 137
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 987,
+  "y" : 72,
+  "z" : 137
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 984,
+  "y" : 72,
+  "z" : 142
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 984,
+  "y" : 72,
+  "z" : 143
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 986,
+  "y" : 78,
+  "z" : 131
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 986,
+  "y" : 78,
+  "z" : 130
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 989,
+  "y" : 72,
+  "z" : 145
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 989,
+  "y" : 72,
+  "z" : 146
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 989,
+  "y" : 78,
+  "z" : 150
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 975,
+  "y" : 45,
+  "z" : 662
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 970,
+  "y" : 45,
+  "z" : 658
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 991,
+  "y" : 75,
+  "z" : 198
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 988,
+  "y" : 75,
+  "z" : 206
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 976,
+  "y" : 73,
+  "z" : 217
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 978,
+  "y" : 73,
+  "z" : 217
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 976,
+  "y" : 73,
+  "z" : 223
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 978,
+  "y" : 73,
+  "z" : 223
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 976,
+  "y" : 74,
+  "z" : 224
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 977,
+  "y" : 73,
+  "z" : 224
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 978,
+  "y" : 74,
+  "z" : 224
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 983,
+  "y" : 73,
+  "z" : 224
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 979,
+  "y" : 72,
+  "z" : 265
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 979,
+  "y" : 72,
+  "z" : 269
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1002,
+  "y" : 39,
+  "z" : 122
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 995,
+  "y" : 39,
+  "z" : 122
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1007,
+  "y" : 34,
+  "z" : 132
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1004,
+  "y" : 78,
+  "z" : 137
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1002,
+  "y" : 78,
+  "z" : 139
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1001,
+  "y" : 78,
+  "z" : 137
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1005,
+  "y" : 78,
+  "z" : 137
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 993,
+  "y" : 78,
+  "z" : 145
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 993,
+  "y" : 78,
+  "z" : 150
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 993,
+  "y" : 75,
+  "z" : 206
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1007,
+  "y" : 72,
+  "z" : 270
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 992,
+  "y" : -5,
+  "z" : 318
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1007,
+  "y" : -25,
+  "z" : 327
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 996,
+  "y" : -5,
+  "z" : 321
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1013,
+  "y" : -40,
+  "z" : 185
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1017,
+  "y" : -40,
+  "z" : 184
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1020,
+  "y" : -5,
+  "z" : 217
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1012,
+  "y" : 72,
+  "z" : 263
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1012,
+  "y" : 72,
+  "z" : 270
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1008,
+  "y" : -25,
+  "z" : 324
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 1113695754,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1050,
+  "y" : 54,
+  "z" : 151
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 1180163889,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1054,
+  "y" : 54,
+  "z" : 151
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1062,
+  "y" : -15,
+  "z" : 378
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1061,
+  "y" : -26,
+  "z" : 414
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1061,
+  "y" : -26,
+  "z" : 412
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1064,
+  "y" : -11,
+  "z" : 750
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1065,
+  "y" : -11,
+  "z" : 749
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1059,
+  "y" : -10,
+  "z" : 824
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1074,
+  "y" : -35,
+  "z" : 511
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1080,
+  "y" : -45,
+  "z" : 580
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1077,
+  "y" : -45,
+  "z" : 578
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 1743738432,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1096,
+  "y" : 58,
+  "z" : 88
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1079,
+  "y" : -22,
+  "z" : 725
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1076,
+  "y" : -22,
+  "z" : 729
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1100,
+  "y" : -30,
+  "z" : 392
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1103,
+  "y" : -30,
+  "z" : 395
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "LootTableSeed" : 0,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1109,
+  "y" : -20,
+  "z" : 364
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 1119,
+  "y" : 22,
+  "z" : 637
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1112,
+  "y" : 15,
+  "z" : 784
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1116,
+  "y" : 15,
+  "z" : 784
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 1125,
+  "y" : 22,
+  "z" : 637
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1144,
+  "y" : 24,
+  "z" : 918
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1144,
+  "y" : 24,
+  "z" : 915
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 1105400971,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1176,
+  "y" : 55,
+  "z" : 216
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 1176,
+  "y" : 12,
+  "z" : 447
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 1180,
+  "y" : 7,
+  "z" : 577
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1182,
+  "y" : -17,
+  "z" : 621
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 1210,
+  "y" : 38,
+  "z" : -239
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 1207,
+  "y" : 38,
+  "z" : -236
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1185,
+  "y" : -17,
+  "z" : 618
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1203,
+  "y" : -25,
+  "z" : 747
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 2122410793,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1224,
+  "y" : 40,
+  "z" : 264
+}, {
+  "Findable" : 0,
+  "Items" : [ ],
+  "LootTable" : "loot_tables/chests/buriedtreasure.json",
+  "LootTableSeed" : 165960646,
+  "id" : "Chest",
+  "isMovable" : 1,
+  "x" : 1224,
+  "y" : 55,
+  "z" : 328
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1231,
+  "y" : -41,
+  "z" : 577
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1226,
+  "y" : 28,
+  "z" : 908
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 1232,
+  "y" : 25,
+  "z" : 676
+}, {
+  "id" : "Chest",
+  "Items" : [ ],
+  "x" : 1236,
+  "y" : 25,
+  "z" : 674
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1252,
+  "y" : 27,
+  "z" : 444
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1250,
+  "y" : 27,
+  "z" : 439
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1272,
+  "y" : 16,
+  "z" : 505
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1272,
+  "y" : -15,
+  "z" : 527
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1272,
+  "y" : -15,
+  "z" : 528
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1266,
+  "y" : -38,
+  "z" : 730
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1264,
+  "y" : -38,
+  "z" : 730
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1266,
+  "y" : 11,
+  "z" : 819
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1332,
+  "y" : -10,
+  "z" : 635
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1328,
+  "y" : -10,
+  "z" : 641
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1355,
+  "y" : -14,
+  "z" : 538
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1351,
+  "y" : -14,
+  "z" : 537
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1351,
+  "y" : -18,
+  "z" : 694
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1406,
+  "y" : -23,
+  "z" : 443
+}, {
+  "id" : "Chest",
+  "LootTable" : "loot_tables/chests/simple_dungeon.json",
+  "Items" : [ ],
+  "x" : 1402,
+  "y" : -23,
+  "z" : 440
+} ]
