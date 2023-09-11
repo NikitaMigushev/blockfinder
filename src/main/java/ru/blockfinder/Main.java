@@ -42,6 +42,7 @@ public class Main {
                     new ListUniqueEntitiesAction(output),
                     new CreateJsonWithChunksWithEntitiesAction(output),
                     new CreateJsonWithTagsByNameAction(output),
+                    new ShowPathAction(output),
                     new ExitAction(output)
             };
             new Main(output).init(input, service, actions);
