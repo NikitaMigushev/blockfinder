@@ -37,8 +37,12 @@ public class SimpleChunk {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
         SimpleChunk that = (SimpleChunk) o;
         return x == that.x && z == that.z;
     }
