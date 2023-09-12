@@ -40,8 +40,10 @@ public class SimpleLevelDBRepository implements LevelDBRepository {
         try {
             for (iterator.seekToFirst(); iterator.hasNext(); iterator.next()) {
                 byte[] key = iterator.peekNext().getKey();
-                SimpleSubChunk simpleSubChunk = new SimpleSubChunk(key);
-                simpleSubChunkList.add(simpleSubChunk);
+                if (key.length == 9) {
+                    SimpleSubChunk simpleSubChunk = new SimpleSubChunk(key);
+                    simpleSubChunkList.add(simpleSubChunk);
+                }
             }
         } catch (Exception e) {
             e.printStackTrace();
