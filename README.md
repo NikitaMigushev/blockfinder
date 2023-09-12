@@ -17,4 +17,6 @@ pass program arguments:
 
 example of full command line:
 - `java -jar blockfinder -p=C:\world -f=tag -s=Chest`
+- `java -jar blockfinder -p=C:\world -f=chunk -s=Chest`
+- `java -jar blockfinder -p=C:\world -f=unique`
 
