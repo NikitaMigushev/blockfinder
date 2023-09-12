@@ -3,6 +3,7 @@ package ru.blockfinder.repository;
 import org.junit.jupiter.api.Test;
 import ru.blockfinder.model.SimpleChunk;
 
+import java.nio.file.Path;
 import java.util.HashSet;
 
 import static org.assertj.core.api.Assertions.assertThat;
@@ -14,7 +15,7 @@ class SimpleLevelDBRepositoryTest {
     public void getAllChunksTest() {
         var chunksWithTags = new HashSet<SimpleChunk>();
         try {
-            SimpleLevelDBRepository repository = new SimpleLevelDBRepository();
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("./world"));
             var result = repository.getAllChunks();
             System.out.println("Check here");
 
@@ -34,7 +35,7 @@ class SimpleLevelDBRepositoryTest {
     @Test
     public void findChunksWithEntitiesTest() {
         try {
-            SimpleLevelDBRepository repository = new SimpleLevelDBRepository();
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("./world"));
             var result = repository.findChunksWithEntitiesByName("Chest");
             System.out.println("check here");
             assertThat(result).isNotEmpty();
@@ -47,7 +48,7 @@ class SimpleLevelDBRepositoryTest {
     @Test
     public void getUniqueEntitiesTest() {
         try {
-            SimpleLevelDBRepository repository = new SimpleLevelDBRepository();
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("./world"));
             var result = repository.getUniqueEntities();
             assertThat(result).isNotEmpty();
             repository.getDb().close();
@@ -59,7 +60,7 @@ class SimpleLevelDBRepositoryTest {
     @Test
     public void findTagsByName() {
         try {
-            SimpleLevelDBRepository repository = new SimpleLevelDBRepository();
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("./world"));
             var result = repository.findTagsByName("Chest");
             System.out.println("check here");
             assertThat(result).isNotEmpty();

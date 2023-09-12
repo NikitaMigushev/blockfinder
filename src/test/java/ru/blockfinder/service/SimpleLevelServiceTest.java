@@ -4,13 +4,14 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
+import java.nio.file.Path;
 
 class SimpleLevelServiceTest {
     private static LevelService service;
 
     @BeforeAll
     public static void init() throws IOException {
-        service = new SimpleLevelService();
+        service = new SimpleLevelService(Path.of("./world"));
     }
 
     @Test

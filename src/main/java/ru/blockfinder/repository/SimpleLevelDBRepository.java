@@ -22,8 +22,8 @@ public class SimpleLevelDBRepository implements LevelDBRepository {
     private final Path path;
     private final DB db;
 
-    public SimpleLevelDBRepository() throws IOException {
-        this.path = Path.of("./world");
+    public SimpleLevelDBRepository(Path path) throws IOException {
+        this.path = path;
         Path dbPath = this.path.resolve("db");
 
         Options options = new Options()

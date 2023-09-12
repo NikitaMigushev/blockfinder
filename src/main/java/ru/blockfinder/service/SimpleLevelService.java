@@ -10,14 +10,18 @@ import ru.blockfinder.repository.SimpleLevelDBRepository;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Path;
 import java.util.List;
 import java.util.Set;
 
 public class SimpleLevelService implements LevelService {
+
+    Path path;
     private LevelDBRepository repository;
 
-    public SimpleLevelService() throws IOException {
-        this.repository = new SimpleLevelDBRepository();
+    public SimpleLevelService(Path path) throws IOException {
+        this.path = path;
+        this.repository = new SimpleLevelDBRepository(path);
     }
 
     @Override
@@ -36,6 +40,19 @@ public class SimpleLevelService implements LevelService {
     }
 
     @Override
+    public void createJsonWithUniqueEntities(Set<String> entities) throws IOException {
+        String filePath = "unique.json";
+        try {
+            ObjectMapper objectMapper = JsonMapper.builder()
+                    .enable(SerializationFeature.INDENT_OUTPUT)
+                    .build();
+            objectMapper.writeValue(new File(filePath), entities);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Override
     public void createJsonForFindChunksWithEntitiesByName(Set<SimpleChunk> chunks) throws IOException {
         String filePath = "chunks.json";
         try {
@@ -47,6 +64,7 @@ public class SimpleLevelService implements LevelService {
             e.printStackTrace();
         }
     }
+
 
     @Override
     public List<NbtMap> findTagsByName(String name) throws IOException {

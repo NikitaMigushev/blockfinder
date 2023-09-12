@@ -1,52 +1,51 @@
 package ru.blockfinder;
 
-import ru.blockfinder.actions.*;
 import ru.blockfinder.service.LevelService;
 import ru.blockfinder.service.SimpleLevelService;
 
+import java.nio.file.Path;
+import java.util.Set;
+
 public class Main {
-
-    private final Output out;
-
-    public Main(Output out) {
-        this.out = out;
-    }
-
-    public void init(Input input, LevelService service, UserAction[] actions) {
-        boolean run = true;
-        while (run) {
-            this.showMenu(actions);
-            int select = input.askInt("Select: ");
-            if (select < 0 || select >= actions.length) {
-                out.println("Wrong input, you can select: 0 .. " + (actions.length - 1));
-                continue;
-            }
-            UserAction action = actions[select];
-            run = action.execute(input, service);
-        }
-    }
-
-    private void showMenu(UserAction[] actions) {
-        out.println("Menu:");
-        for (int i = 0; i < actions.length; i++) {
-            out.println(i + ". " + actions[i].name());
-        }
-    }
-
     public static void main(String[] args) {
-        Output output = new ConsoleOutput();
-        Input input = new ValidateInput(output, new ConsoleInput());
+        ArgsName argsName = ArgsName.of(args);
         try {
-            LevelService service = new SimpleLevelService();
-            UserAction[] actions = {
-                    new ListUniqueEntitiesAction(output),
-                    new CreateJsonWithChunksWithEntitiesAction(output),
-                    new CreateJsonWithTagsByNameAction(output),
-                    new ShowPathAction(output),
-                    new ExitAction(output)
-            };
-            new Main(output).init(input, service, actions);
-        } catch (Exception e) {
+            LevelService service = new SimpleLevelService(Path.of(argsName.get("p")));
+            String function = argsName.get("f");
+
+            switch (function) {
+                case "chunk":
+                    var chunks = service.findChunksWithEntitiesByName(argsName.get("s"));
+                    if (chunks.isEmpty() || chunks == null) {
+                        System.out.println("No chunks have been found with this entity");
+                    } else {
+                        service.createJsonForFindChunksWithEntitiesByName(chunks);
+                        System.out.println("JSON with chunks has been created");
+                    }
+                    break;
+                case "tag":
+                    var tags = service.findTagsByName(argsName.get("s"));
+                    if (tags.isEmpty() || tags == null) {
+                        System.out.println("No tags have been found with this entity");
+                    } else {
+                        service.createJsonForFindTagsByName(tags);
+                        System.out.println("JSON with tags has been created");
+                    }
+                    break;
+                case "unique":
+                    Set<String> entities = service.getUniqueEntities();
+                    if (entities.isEmpty() || entities == null) {
+                        System.out.println("Entities haven't been found");
+                    } else {
+                        service.createJsonWithUniqueEntities(entities);
+                        System.out.println("JSON with unique entities has been created");
+                    }
+                    break;
+                default:
+                    break;
+            }
+        } catch (
+                Exception e) {
             e.printStackTrace();
         }
     }
