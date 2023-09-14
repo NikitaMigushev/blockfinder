@@ -13,7 +13,7 @@ run program in the command line `java -jar blockfinder.jar`
 pass program arguments:
 - `-p=` path to world file, example: `-p=C:\world`
 - `-f=` one of (chunk, tag or unique), example `-f=chunk`
-- `-s=` Entity to search, example `-s=Chest`. You can write several search words like this `s=Chest,Skull`. Only required for `chunk` and `tag` functions
+- `-s=` Entity to search, example `-s=Chest`. You can write several search words like this `-s=Chest,Skull`. Only required for `chunk` and `tag` functions
 
 example of full command line:
 - `java -jar blockfinder -p=C:\world -f=tag -s=Chest`
