@@ -95,6 +95,25 @@ public class SimpleLevelDBRepository implements LevelDBRepository {
     }
 
     @Override
+    public Set<SimpleChunk> findChunksWithEntitiesByName(String[] names) throws IOException {
+        Set<SimpleChunk> chunks = getAllChunks();
+        Set<SimpleChunk> result = new HashSet<>();
+        for (String name : names) {
+            for (SimpleChunk chunk : chunks) {
+                if (chunk.getTags() != null && chunk.getTags().size() > 0) {
+                    var tags = chunk.getTags();
+                    for (NbtMap tag : tags) {
+                        if (tag.get("id").equals(name)) {
+                            result.add(chunk);
+                        }
+                    }
+                }
+            }
+        }
+        return result;
+    }
+
+    @Override
     public List<NbtMap> findTagsByName(String name) throws IOException {
         List<NbtMap> result = new ArrayList<>();
         Set<SimpleChunk> chunks = getAllChunks();
@@ -104,6 +123,25 @@ public class SimpleLevelDBRepository implements LevelDBRepository {
                 for (NbtMap tag : tags) {
                     if (tag.get("id").equals(name)) {
                         result.add(tag);
+                    }
+                }
+            }
+        }
+        return result;
+    }
+
+    @Override
+    public List<NbtMap> findTagsByName(String[] names) throws IOException {
+        List<NbtMap> result = new ArrayList<>();
+        Set<SimpleChunk> chunks = getAllChunks();
+        for (String name : names) {
+            for (SimpleChunk chunk : chunks) {
+                if (chunk.getTags() != null && chunk.getTags().size() > 0) {
+                    var tags = chunk.getTags();
+                    for (NbtMap tag : tags) {
+                        if (tag.get("id").equals(name)) {
+                            result.add(tag);
+                        }
                     }
                 }
             }

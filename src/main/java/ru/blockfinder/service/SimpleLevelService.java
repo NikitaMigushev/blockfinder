@@ -35,6 +35,12 @@ public class SimpleLevelService implements LevelService {
     }
 
     @Override
+    public Set<SimpleChunk> findChunksWithEntitiesByName(String[] names) throws IOException {
+        return repository.findChunksWithEntitiesByName(names);
+    }
+
+
+    @Override
     public Set<String> getUniqueEntities() throws IOException {
         return repository.getUniqueEntities();
     }
@@ -69,6 +75,11 @@ public class SimpleLevelService implements LevelService {
     @Override
     public List<NbtMap> findTagsByName(String name) throws IOException {
         return repository.findTagsByName(name);
+    }
+
+    @Override
+    public List<NbtMap> findTagsByName(String[] names) throws IOException {
+        return repository.findTagsByName(names);
     }
 
     @Override

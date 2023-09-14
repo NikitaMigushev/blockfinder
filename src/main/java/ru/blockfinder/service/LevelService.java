@@ -10,6 +10,9 @@ import java.util.Set;
 public interface LevelService {
     Set<SimpleChunk> getAllChunks() throws IOException;
     Set<SimpleChunk> findChunksWithEntitiesByName(String name) throws IOException;
+
+    Set<SimpleChunk> findChunksWithEntitiesByName(String[] names) throws IOException;
+
     Set<String> getUniqueEntities() throws IOException;
 
     void createJsonWithUniqueEntities(Set<String> entities) throws IOException;
@@ -17,4 +20,6 @@ public interface LevelService {
     void createJsonForFindChunksWithEntitiesByName(Set<SimpleChunk> chunks) throws IOException;
     List<NbtMap> findTagsByName(String name) throws IOException;
     void createJsonForFindTagsByName(List<NbtMap> tags) throws IOException;
+
+    List<NbtMap> findTagsByName(String[] names) throws IOException;
 }

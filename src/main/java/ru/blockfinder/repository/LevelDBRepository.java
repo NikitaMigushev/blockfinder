@@ -11,6 +11,10 @@ public interface LevelDBRepository {
     Set<SimpleChunk> getAllChunks() throws IOException;
     Set<SimpleChunk> findChunksWithEntitiesByName(String name) throws IOException;
     Set<String> getUniqueEntities() throws IOException;
+
+    Set<SimpleChunk> findChunksWithEntitiesByName(String[] names) throws IOException;
+
     List<NbtMap>  findTagsByName(String name) throws IOException;
 
+    List<NbtMap> findTagsByName(String[] names) throws IOException;
 }

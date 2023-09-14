@@ -11,7 +11,7 @@ class SimpleLevelServiceTest {
 
     @BeforeAll
     public static void init() throws IOException {
-        service = new SimpleLevelService(Path.of("./world"));
+        service = new SimpleLevelService(Path.of("C:\\world"));
     }
 
     @Test

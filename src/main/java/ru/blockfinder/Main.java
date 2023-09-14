@@ -15,7 +15,7 @@ public class Main {
 
             switch (function) {
                 case "chunk":
-                    var chunks = service.findChunksWithEntitiesByName(argsName.get("s"));
+                    var chunks = service.findChunksWithEntitiesByName(argsName.get("s").split(","));
                     if (chunks.isEmpty() || chunks == null) {
                         System.out.println("No chunks have been found with this entity");
                     } else {
@@ -24,7 +24,7 @@ public class Main {
                     }
                     break;
                 case "tag":
-                    var tags = service.findTagsByName(argsName.get("s"));
+                    var tags = service.findTagsByName(argsName.get("s").split(","));
                     if (tags.isEmpty() || tags == null) {
                         System.out.println("No tags have been found with this entity");
                     } else {

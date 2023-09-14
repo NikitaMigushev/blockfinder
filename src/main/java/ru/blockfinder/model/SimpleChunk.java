@@ -1,6 +1,6 @@
 package ru.blockfinder.model;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -19,7 +19,7 @@ public class SimpleChunk {
 
     private int z;
 
-    @JsonFormat(with = JsonFormat.Feature.WRITE_SINGLE_ELEM_ARRAYS_UNWRAPPED)
+    @JsonIgnore
     private List<NbtMap> tags;
 
     public SimpleChunk(int x, int z) {

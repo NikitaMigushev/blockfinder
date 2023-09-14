@@ -5,6 +5,7 @@ import ru.blockfinder.model.SimpleChunk;
 
 import java.nio.file.Path;
 import java.util.HashSet;
+import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -15,7 +16,7 @@ class SimpleLevelDBRepositoryTest {
     public void getAllChunksTest() {
         var chunksWithTags = new HashSet<SimpleChunk>();
         try {
-            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("./world"));
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("C:\\world"));
             var result = repository.getAllChunks();
             System.out.println("Check here");
 
@@ -29,14 +30,26 @@ class SimpleLevelDBRepositoryTest {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
 
     @Test
     public void findChunksWithEntitiesTest() {
         try {
-            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("./world"));
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("C:\\world"));
             var result = repository.findChunksWithEntitiesByName("Chest");
+            System.out.println("check here");
+            assertThat(result).isNotEmpty();
+            repository.getDb().close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Test
+    public void findChunksWithEntitiesByNamesTest() {
+        try {
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("C:\\world"));
+            var result = repository.findChunksWithEntitiesByName(List.of("Skull", "FlowerPot").toArray(new String[0]));
             System.out.println("check here");
             assertThat(result).isNotEmpty();
             repository.getDb().close();
@@ -48,7 +61,7 @@ class SimpleLevelDBRepositoryTest {
     @Test
     public void getUniqueEntitiesTest() {
         try {
-            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("./world"));
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("C:\\world"));
             var result = repository.getUniqueEntities();
             assertThat(result).isNotEmpty();
             repository.getDb().close();
@@ -60,7 +73,7 @@ class SimpleLevelDBRepositoryTest {
     @Test
     public void findTagsByName() {
         try {
-            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("./world"));
+            SimpleLevelDBRepository repository = new SimpleLevelDBRepository(Path.of("C:\\world"));
             var result = repository.findTagsByName("Chest");
             System.out.println("check here");
             assertThat(result).isNotEmpty();
