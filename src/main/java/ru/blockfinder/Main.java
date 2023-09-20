@@ -1,5 +1,8 @@
 package ru.blockfinder;
 
+import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.repository.LevelDBKey;
+import ru.blockfinder.serializer.ChunkSerializers;
 import ru.blockfinder.service.LevelService;
 import ru.blockfinder.service.SimpleLevelService;
 
@@ -41,6 +44,14 @@ public class Main {
                         System.out.println("JSON with unique entities has been created");
                     }
                     break;
+                case "try":
+                    var chunk = new SimpleChunk(67, 36);
+                    var db = service.getRepository().getDb();
+                    var versionData = db.get(LevelDBKey.VERSION.getKey(67, 36));
+                    var version = versionData[0];
+                    ChunkSerializers.deserializeChunk(db, chunk, version);
+                    System.out.println("check here");
+
                 default:
                     break;
             }

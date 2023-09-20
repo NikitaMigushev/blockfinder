@@ -17,11 +17,17 @@ import java.util.Set;
 public class SimpleLevelService implements LevelService {
 
     Path path;
+
     private LevelDBRepository repository;
 
     public SimpleLevelService(Path path) throws IOException {
         this.path = path;
         this.repository = new SimpleLevelDBRepository(path);
+    }
+
+    @Override
+    public LevelDBRepository getRepository() {
+        return repository;
     }
 
     @Override
@@ -94,4 +100,6 @@ public class SimpleLevelService implements LevelService {
             e.printStackTrace();
         }
     }
+
+
 }

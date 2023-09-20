@@ -82,7 +82,7 @@ public class ArgsName {
         String[] parseArg = arg.split("=", 2);
         String key = parseArg[0].split("-")[1];
         String value = parseArg[1];
-        if (key.equals("f") && (!value.equals("chunk") && !value.equals("tag") && !value.equals("unique"))) {
+        if (key.equals("f") && (!value.equals("chunk") && !value.equals("tag") && !value.equals("unique") && !value.equals("try"))) {
             String message = String.format("Error: This -f argument: '%s' can only be \"chunk\", \"tag\" or \"unique\"", arg);
             throw new IllegalArgumentException(message);
         }

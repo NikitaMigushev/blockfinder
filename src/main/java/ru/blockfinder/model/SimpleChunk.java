@@ -19,6 +19,8 @@ public class SimpleChunk {
 
     private int z;
 
+    public static final int SECTION_COUNT = 16;
+
     @JsonIgnore
     private List<NbtMap> tags;
 

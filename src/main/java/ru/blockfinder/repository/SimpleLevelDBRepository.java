@@ -20,6 +20,7 @@ import java.util.*;
 @Getter
 public class SimpleLevelDBRepository implements LevelDBRepository {
     private final Path path;
+
     private final DB db;
 
     public SimpleLevelDBRepository(Path path) throws IOException {
@@ -30,6 +31,11 @@ public class SimpleLevelDBRepository implements LevelDBRepository {
                 .compressionType(CompressionType.ZLIB_RAW)
                 .blockSize(64 * 1024);
         this.db = LevelDB.PROVIDER.open(dbPath.toFile(), options);
+    }
+
+    @Override
+    public DB getDb() {
+        return db;
     }
 
     @Override
