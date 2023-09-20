@@ -1,0 +1,121 @@
+[ {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 622,
+  "y" : 70,
+  "z" : 62
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 635,
+  "y" : 70,
+  "z" : 39
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 747,
+  "y" : 70,
+  "z" : 16
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 747,
+  "y" : 70,
+  "z" : 18
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 757,
+  "y" : 76,
+  "z" : 26
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 755,
+  "y" : 70,
+  "z" : 25
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 757,
+  "y" : 76,
+  "z" : 30
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 758,
+  "y" : 70,
+  "z" : 25
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 180.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 773,
+  "y" : 77,
+  "z" : 29
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 360.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 872,
+  "y" : 74,
+  "z" : 75
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 270.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 903,
+  "y" : 73,
+  "z" : 26
+}, {
+  "MouthMoving" : 0,
+  "MouthTickCount" : 0,
+  "Rotation" : 270.0,
+  "SkullType" : 0,
+  "id" : "Skull",
+  "isMovable" : 1,
+  "x" : 903,
+  "y" : 73,
+  "z" : 56
+} ]
