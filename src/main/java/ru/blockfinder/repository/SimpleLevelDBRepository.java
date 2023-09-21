@@ -11,9 +11,9 @@ import org.iq80.leveldb.CompressionType;
 import org.iq80.leveldb.DB;
 import org.iq80.leveldb.DBIterator;
 import org.iq80.leveldb.Options;
-import ru.blockfinder.model.ChunkException;
-import ru.blockfinder.model.SimpleChunk;
-import ru.blockfinder.model.SimpleSubChunk;
+import ru.blockfinder.model.chunk.ChunkException;
+import ru.blockfinder.model.chunk.SimpleChunk;
+import ru.blockfinder.model.chunk.SimpleSubChunk;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

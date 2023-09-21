@@ -1,7 +1,7 @@
 package ru.blockfinder.repository;
 
 import org.junit.jupiter.api.Test;
-import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.model.chunk.SimpleChunk;
 
 import java.nio.file.Path;
 import java.util.HashSet;

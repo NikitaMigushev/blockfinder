@@ -5,10 +5,10 @@ import io.netty.buffer.Unpooled;
 import it.unimi.dsi.fastutil.ints.Int2ShortMap;
 import it.unimi.dsi.fastutil.ints.Int2ShortOpenHashMap;
 import org.iq80.leveldb.DB;
-import ru.blockfinder.model.BlockStorage;
-import ru.blockfinder.model.ChunkException;
-import ru.blockfinder.model.ChunkSection;
-import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.model.block.BlockStorage;
+import ru.blockfinder.model.chunk.ChunkException;
+import ru.blockfinder.model.chunk.ChunkSection;
+import ru.blockfinder.model.chunk.SimpleChunk;
 import ru.blockfinder.repository.LevelDBKey;
 
 public class ChunkSerializerV3 implements ChunkSerializer {

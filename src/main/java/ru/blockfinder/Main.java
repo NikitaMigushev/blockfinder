@@ -1,6 +1,6 @@
 package ru.blockfinder;
 
-import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.model.chunk.SimpleChunk;
 import ru.blockfinder.repository.LevelDBKey;
 import ru.blockfinder.serializer.ChunkSerializers;
 import ru.blockfinder.service.LevelService;

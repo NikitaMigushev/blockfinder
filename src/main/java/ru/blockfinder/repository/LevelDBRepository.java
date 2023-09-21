@@ -2,7 +2,7 @@ package ru.blockfinder.repository;
 
 import org.cloudburstmc.nbt.NbtMap;
 import org.iq80.leveldb.DB;
-import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.model.chunk.SimpleChunk;
 
 import java.io.IOException;
 import java.util.List;

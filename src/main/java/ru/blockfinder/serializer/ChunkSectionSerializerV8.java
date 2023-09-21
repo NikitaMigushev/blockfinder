@@ -1,8 +1,8 @@
 package ru.blockfinder.serializer;
 
 import io.netty.buffer.ByteBuf;
-import ru.blockfinder.model.BlockStorage;
-import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.model.block.BlockStorage;
+import ru.blockfinder.model.chunk.SimpleChunk;
 
 public class ChunkSectionSerializerV8 implements ChunkSectionSerializer {
     static final ChunkSectionSerializer INSTANCE = new ChunkSectionSerializerV8();

@@ -1,7 +1,7 @@
 package ru.blockfinder.service;
 
 import org.cloudburstmc.nbt.NbtMap;
-import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.model.chunk.SimpleChunk;
 import ru.blockfinder.repository.LevelDBRepository;
 
 import java.io.IOException;

@@ -2,8 +2,8 @@ package ru.blockfinder.serializer;
 
 import com.google.common.base.Preconditions;
 import io.netty.buffer.ByteBuf;
-import ru.blockfinder.model.BlockStorage;
-import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.model.block.BlockStorage;
+import ru.blockfinder.model.chunk.SimpleChunk;
 
 public class ChunkSectionSerializers {
     private static final ChunkSectionSerializer[] SERIALIZERS = new ChunkSectionSerializer[9];

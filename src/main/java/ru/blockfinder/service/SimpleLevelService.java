@@ -4,7 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.databind.json.JsonMapper;
 import org.cloudburstmc.nbt.NbtMap;
-import ru.blockfinder.model.SimpleChunk;
+import ru.blockfinder.model.chunk.SimpleChunk;
 import ru.blockfinder.repository.LevelDBRepository;
 import ru.blockfinder.repository.SimpleLevelDBRepository;
 
