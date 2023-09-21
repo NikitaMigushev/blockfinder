@@ -1,5 +1,7 @@
 package ru.blockfinder.repository;
 
+import io.netty.buffer.ByteBuf;
+import io.netty.buffer.Unpooled;
 import lombok.Getter;
 import net.daporkchop.ldbjni.LevelDB;
 import org.cloudburstmc.nbt.NBTInputStream;
@@ -9,6 +11,7 @@ import org.iq80.leveldb.CompressionType;
 import org.iq80.leveldb.DB;
 import org.iq80.leveldb.DBIterator;
 import org.iq80.leveldb.Options;
+import ru.blockfinder.model.ChunkException;
 import ru.blockfinder.model.SimpleChunk;
 import ru.blockfinder.model.SimpleSubChunk;
 
@@ -62,6 +65,28 @@ public class SimpleLevelDBRepository implements LevelDBRepository {
         populateChunksWithEntityTags(result);
         return result;
     }
+
+    @Override
+    public Set<Integer> getAllSubchunkVersions() throws IOException {
+        Set<Integer> bytes = new HashSet<>();
+        var chunks = getAllChunks();
+        for (SimpleChunk chunk : chunks) {
+            for (int ySection = 0; ySection < SimpleChunk.SECTION_COUNT; ySection++) {
+                byte[] sectionData = db.get(LevelDBKey.SUBCHUNK_PREFIX.getKey(chunk.getX(), chunk.getZ(), ySection));
+                if (sectionData == null) {
+                    continue;
+                }
+                ByteBuf buf = Unpooled.wrappedBuffer(sectionData);
+                if (!buf.isReadable()) {
+                    throw new ChunkException("Empty sub-chunk " + ySection);
+                }
+                int subChunkVersion = buf.readUnsignedByte();
+                bytes.add(subChunkVersion);
+            }
+        }
+        return bytes;
+    }
+
 
     private void populateChunksWithEntityTags(Set<SimpleChunk> chunks) {
         for (SimpleChunk chunk : chunks) {

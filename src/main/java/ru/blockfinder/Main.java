@@ -47,10 +47,12 @@ public class Main {
                 case "try":
                     var chunk = new SimpleChunk(67, 36);
                     var db = service.getRepository().getDb();
-                    var versionData = db.get(LevelDBKey.VERSION.getKey(67, 36));
+                    var rep = service.getRepository();
+                    var versionData = db.get(LevelDBKey.VERSION.getKey(20, 24));
                     var version = versionData[0];
                     ChunkSerializers.deserializeChunk(db, chunk, version);
-                    System.out.println("check here");
+
+
 
                 default:
                     break;

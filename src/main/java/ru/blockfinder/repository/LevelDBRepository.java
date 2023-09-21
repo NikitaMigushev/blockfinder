@@ -12,6 +12,9 @@ public interface LevelDBRepository {
     DB getDb();
 
     Set<SimpleChunk> getAllChunks() throws IOException;
+
+    Set<Integer> getAllSubchunkVersions() throws IOException;
+
     Set<SimpleChunk> findChunksWithEntitiesByName(String name) throws IOException;
     Set<String> getUniqueEntities() throws IOException;
 
